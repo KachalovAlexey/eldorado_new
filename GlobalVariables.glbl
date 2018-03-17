@@ -2,4 +2,9 @@
 <GlobalVariableEntities>
    <description></description>
    <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.eldorado.ru/'</initValue>
+      <name>TestURL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
